@@ -1,0 +1,8 @@
+export const USER_WIN = "USER_WIN"
+export const USER_LOSE = "USER_LOSE"
+export const USER_LOGIN = "USER_LOGIN"
+export const USER_LOGOUT = "USER_LOGOUT"
+export const USER_LOGIN_ASYNC = "USER_LOGIN_ASYNC"
+export const USER_LOGOUT_ASYNC = "USER_LOGOUT_ASYNC"
+export const START_GAME = "START_GAME"
+export const SET_GAME_RESULT = "SET_GAME_RESULT"
